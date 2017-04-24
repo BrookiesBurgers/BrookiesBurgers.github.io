@@ -28,6 +28,7 @@
 
 	ol, ul {
 		list-style: none;
+		white-space:nowrap;
 	}
 
 	blockquote, q {
@@ -2565,4 +2566,10 @@
     .modal-content {
         width: 100%;
     }
+}
+
+#menu {
+	margin: auto;
+    width: 50%;
+    padding: 10px;
 }
